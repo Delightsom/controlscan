@@ -5,3 +5,10 @@ controls:
   SC-28:
     title: Protection of Information at Rest
     check: encryption_at_rest
+  AU-2:
+    title: Event Logging
+    check: logging_enabled
+  AU-12:
+    title: Audit Record Generation
+    check: logging_enabled
+
