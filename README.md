@@ -2,6 +2,8 @@
 Compliance-as-Code engine that maps Terraform infrastructure to NIST 800-53 and FedRAMP controls and generates automated gap reports.
 ## Quick Start
 
+📄 Example compliance output: [View sample report](docs/sample-report.md)
+
 Run ControlScan locally:
 
 ```bash
