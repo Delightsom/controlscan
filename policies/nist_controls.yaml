@@ -1,0 +1,7 @@
+controls:
+  SC-13:
+    title: Cryptographic Protection
+    check: encryption_at_rest
+  SC-28:
+    title: Protection of Information at Rest
+    check: encryption_at_rest
